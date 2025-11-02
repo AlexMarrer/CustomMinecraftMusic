@@ -1,1 +1,29 @@
-{}
+{
+  "newjeans_cookie": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/newjeans_cookie", "stream": true }]
+  },
+  "mero_ballerlos": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/mero_ballerlos", "stream": true }]
+  },
+  "newjeans_newjeans": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/newjeans_newjeans", "stream": true }]
+  },
+  "nmixx_papillon": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/nmixx_papillon", "stream": true }]
+  },
+  "wondergirls_rewind": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/wondergirls_rewind", "stream": true }]
+  },
+  "lesserafim_pearlies": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/lesserafim_pearlies", "stream": true }]
+  },
+  "newjeans_hypeboy": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/newjeans_hypeboy", "stream": true }]
+  },
+  "katseye_touch": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/katseye_touch", "stream": true }]
+  },
+  "badbunny_nuevayol": {
+    "sounds": [{ "name": "custommusicdiscs:sounds/badbunny_nuevayol", "stream": true }]
+  }
+}
